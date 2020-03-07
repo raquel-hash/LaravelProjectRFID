@@ -1,0 +1,1 @@
+INSERT INTO Profesion (idProfesion, nombre) VALUES (1, 'Abogado');
